@@ -22,5 +22,17 @@
         "type":"milkshake-ice-cream",
         "ingredients":["milk","sugar","strawberry syrup","sprinkles","vanilla base"],
         "image":"https://vedantpatel-1905.github.io/I_Scream_Json/images/strawberry-sprinkle.svg"
+    },{
+        "name":"Guava",
+        "calories": 170,
+        "type":"ice-cream",
+        "ingredients":["milk","sugar","guava","guava pulp"],
+        "image":"https://vedantpatel-1905.github.io/I_Scream_Json/images/ice-cream-xtra1.svg"
+    },{
+        "name":"Papaya Pineapple",
+        "calories": 160,
+        "type":"milkshake-ice-cream",
+        "ingredients":["milk","papaya","pineapple","papaya pulp"],
+        "image":"https://vedantpatel-1905.github.io/I_Scream_Json/images/ice-cream-xtra1.svg"
     }]
 }

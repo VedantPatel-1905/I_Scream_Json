@@ -92,6 +92,7 @@ function showTopFlavours(jsonData)
     
 }
 
+
 // STEP 11: Add a 3rd flavour of ice cream to the local JSON file, making use of the /images/strawberry-sprinkle.svg image
 
 // Lab: Extend the JavaScript application built in class to include two more flavors of ice cream.
