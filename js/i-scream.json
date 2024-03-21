@@ -16,5 +16,11 @@
         "type":"ice-cream",
         "ingredients":["milk","sugar","mango","peach","vanilla base"],
         "image":"https://vedantpatel-1905.github.io/I_Scream_Json/images/peach-mango.svg"
+    },{
+        "name":"Strawberry Sprinkle",
+        "calories": 180,
+        "type":"milkshake-ice-cream",
+        "ingredients":["milk","sugar","strawberry syrup","sprinkles","vanilla base"],
+        "image":"https://vedantpatel-1905.github.io/I_Scream_Json/images/strawberry-sprinkle.svg"
     }]
 }
